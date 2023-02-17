@@ -3,4 +3,4 @@ function ft_print_alphabet(){
     console.log(alphabet);
 }
 
-ft_print_alphabet()
+ft_print_alphabet();
