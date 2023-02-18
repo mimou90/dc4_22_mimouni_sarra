@@ -1,6 +1,6 @@
-function ft_print_alphabet(){
+function alphabet_un(){
     var alphabet = "abcdefghijklmnopqrstuvwxyz";
     console.log(alphabet);
 }
 
-ft_print_alphabet();
+alphabet_un();
