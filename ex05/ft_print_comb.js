@@ -14,3 +14,4 @@ function comb_trois_chiffres(){
     } 
 }
 
+comb_trois_chiffres()
